@@ -1,0 +1,1 @@
+The lab analyzes changes in US high school education rates from 2005 to 2018 using paired and unpaired t-tests, Wilcoxon tests, and data transformations. Regional comparisons and normality checks are also performed. Plots and statistical results are included to answer key research questions.
