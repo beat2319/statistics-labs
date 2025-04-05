@@ -1,0 +1,2 @@
+Lab 5: Fire Frequency in the Colorado Front Range
+This lab analyzes patterns in forest fire frequency across different elevation bands and zones in the Colorado Front Range from 1985 to 2019. Using statistical tests like ANOVA, Kruskal-Wallis, and Chi-squared, we investigate whether fire occurrence varies significantly by region and elevation. The analysis includes visualizations and interprets the results in the context of regional fire patterns.
